@@ -1,0 +1,25 @@
+
+{
+    "testreactApp": {
+        "kudosRecord" : {
+            "home": {
+                "title": "KudosRecords",
+                "createLabel": "नया Kudos Record बनाएँ",
+                "createOrEditLabel": "Kudos Record बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Kudos Record [identifier: {{ param }}] तैयार है",
+            "updated": "एक Kudos Record [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Kudos Record [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Kudos Record [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Kudos Record"
+            },
+            "createdOn": "Created On",
+            "notes": "Notes",
+            "studentProfile": "Student Profile",
+            "kudos": "Kudos"
+        }
+    }
+}

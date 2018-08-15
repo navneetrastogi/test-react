@@ -1,0 +1,10 @@
+{
+    "testreactApp": {
+        "NotificationStatus" : {
+            "null": "",
+            "PENDING": "PENDING",
+            "DELIVERED": "DELIVERED",
+            "READ": "READ"
+        }
+    }
+}

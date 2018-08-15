@@ -1,0 +1,25 @@
+
+{
+    "testreactApp": {
+        "holiday" : {
+            "home": {
+                "title": "Holidays",
+                "createLabel": "नया Holiday बनाएँ",
+                "createOrEditLabel": "Holiday बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Holiday [identifier: {{ param }}] तैयार है",
+            "updated": "एक Holiday [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Holiday [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Holiday [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Holiday"
+            },
+            "date": "Date",
+            "title": "Title",
+            "description": "Description",
+            "center": "Center"
+        }
+    }
+}

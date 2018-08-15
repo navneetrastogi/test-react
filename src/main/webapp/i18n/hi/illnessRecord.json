@@ -1,0 +1,26 @@
+
+{
+    "testreactApp": {
+        "illnessRecord" : {
+            "home": {
+                "title": "IllnessRecords",
+                "createLabel": "नया Illness Record बनाएँ",
+                "createOrEditLabel": "Illness Record बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Illness Record [identifier: {{ param }}] तैयार है",
+            "updated": "एक Illness Record [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Illness Record [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Illness Record [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Illness Record"
+            },
+            "createdOn": "Created On",
+            "name": "Name",
+            "description": "Description",
+            "isCured": "Is Cured",
+            "studentProfile": "Student Profile"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "testreactApp": {
+        "kudos" : {
+            "home": {
+                "title": "Kudos",
+                "createLabel": "नया Kudos बनाएँ",
+                "createOrEditLabel": "Kudos बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Kudos [identifier: {{ param }}] तैयार है",
+            "updated": "एक Kudos [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Kudos [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Kudos [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Kudos"
+            },
+            "title": "Title",
+            "description": "Description",
+            "imageUrl": "Image Url",
+            "createdOn": "Created On",
+            "lastModifiedOn": "Last Modified On",
+            "kudosRecords": "Kudos Records"
+        }
+    }
+}

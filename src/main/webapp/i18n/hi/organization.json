@@ -1,0 +1,25 @@
+
+{
+    "testreactApp": {
+        "organization" : {
+            "home": {
+                "title": "Organizations",
+                "createLabel": "नया Organization बनाएँ",
+                "createOrEditLabel": "Organization बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Organization [identifier: {{ param }}] तैयार है",
+            "updated": "एक Organization [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Organization [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Organization [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Organization"
+            },
+            "name": "Name",
+            "createdOn": "Created On",
+            "lastModifiedOn": "Last Modified On",
+            "centers": "Centers"
+        }
+    }
+}

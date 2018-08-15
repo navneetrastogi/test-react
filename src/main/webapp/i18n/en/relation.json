@@ -1,0 +1,10 @@
+{
+    "testreactApp": {
+        "Relation" : {
+            "null": "",
+            "FATHER": "FATHER",
+            "MOTHER": "MOTHER",
+            "GUARDIAN": "GUARDIAN"
+        }
+    }
+}

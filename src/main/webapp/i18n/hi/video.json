@@ -1,0 +1,25 @@
+
+{
+    "testreactApp": {
+        "video" : {
+            "home": {
+                "title": "Videos",
+                "createLabel": "नया Video बनाएँ",
+                "createOrEditLabel": "Video बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Video [identifier: {{ param }}] तैयार है",
+            "updated": "एक Video [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Video [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Video [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Video"
+            },
+            "uploadedDate": "Uploaded Date",
+            "url": "Url",
+            "event": "Event",
+            "activity": "Activity"
+        }
+    }
+}

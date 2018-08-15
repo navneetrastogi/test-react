@@ -1,0 +1,29 @@
+
+{
+    "testreactApp": {
+        "center" : {
+            "home": {
+                "title": "Centers",
+                "createLabel": "नया Center बनाएँ",
+                "createOrEditLabel": "Center बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Center [identifier: {{ param }}] तैयार है",
+            "updated": "एक Center [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Center [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Center [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Center"
+            },
+            "name": "Name",
+            "createdOn": "Created On",
+            "lastModifiedOn": "Last Modified On",
+            "organization": "Organization",
+            "rooms": "Rooms",
+            "teachers": "Teachers",
+            "students": "Students",
+            "holidays": "Holidays"
+        }
+    }
+}

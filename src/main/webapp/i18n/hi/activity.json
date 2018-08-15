@@ -1,0 +1,31 @@
+
+{
+    "testreactApp": {
+        "activity" : {
+            "home": {
+                "title": "Activities",
+                "createLabel": "नया Activity बनाएँ",
+                "createOrEditLabel": "Activity बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Activity [identifier: {{ param }}] तैयार है",
+            "updated": "एक Activity [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Activity [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Activity [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Activity"
+            },
+            "title": "Title",
+            "description": "Description",
+            "activityImageUrl": "Activity Image Url",
+            "activityDate": "Activity Date",
+            "createdOn": "Created On",
+            "lastModifiedOn": "Last Modified On",
+            "schedule": "Schedule",
+            "activityType": "Activity Type",
+            "photos": "Photos",
+            "videos": "Videos"
+        }
+    }
+}
