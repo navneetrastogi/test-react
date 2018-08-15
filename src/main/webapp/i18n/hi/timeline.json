@@ -1,0 +1,25 @@
+
+{
+    "testreactApp": {
+        "timeline" : {
+            "home": {
+                "title": "Timelines",
+                "createLabel": "नया Timeline बनाएँ",
+                "createOrEditLabel": "Timeline बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Timeline [identifier: {{ param }}] तैयार है",
+            "updated": "एक Timeline [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Timeline [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Timeline [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Timeline"
+            },
+            "date": "Date",
+            "isVisible": "Is Visible",
+            "schedule": "Schedule",
+            "studentProfile": "Student Profile"
+        }
+    }
+}

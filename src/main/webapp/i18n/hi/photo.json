@@ -1,0 +1,26 @@
+
+{
+    "testreactApp": {
+        "photo" : {
+            "home": {
+                "title": "Photos",
+                "createLabel": "नया Photo बनाएँ",
+                "createOrEditLabel": "Photo बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Photo [identifier: {{ param }}] तैयार है",
+            "updated": "एक Photo [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Photo [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Photo [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Photo"
+            },
+            "activityId": "Activity Id",
+            "eventId": "Event Id",
+            "date": "Date",
+            "event": "Event",
+            "activity": "Activity"
+        }
+    }
+}

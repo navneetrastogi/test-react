@@ -1,0 +1,29 @@
+
+{
+    "testreactApp": {
+        "conversation" : {
+            "home": {
+                "title": "Conversations",
+                "createLabel": "नया Conversation बनाएँ",
+                "createOrEditLabel": "Conversation बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Conversation [identifier: {{ param }}] तैयार है",
+            "updated": "एक Conversation [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Conversation [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Conversation [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Conversation"
+            },
+            "text": "Text",
+            "createdOn": "Created On",
+            "sentOn": "Sent On",
+            "status": "Status",
+            "fileUrl": "File Url",
+            "mediaType": "Media Type",
+            "teacher": "Teacher",
+            "parent": "Parent"
+        }
+    }
+}

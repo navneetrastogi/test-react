@@ -1,0 +1,29 @@
+
+{
+    "testreactApp": {
+        "schedule" : {
+            "home": {
+                "title": "Schedules",
+                "createLabel": "नया Schedule बनाएँ",
+                "createOrEditLabel": "Schedule बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Schedule [identifier: {{ param }}] तैयार है",
+            "updated": "एक Schedule [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Schedule [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Schedule [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Schedule"
+            },
+            "events": "Events",
+            "activities": "Activities",
+            "createdOn": "Created On",
+            "lastModifiedOn": "Last Modified On",
+            "rooms": "Rooms",
+            "events": "Events",
+            "activities": "Activities",
+            "timelines": "Timelines"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "testreactApp": {
+        "incident" : {
+            "home": {
+                "title": "Incidents",
+                "createLabel": "नया Incident बनाएँ",
+                "createOrEditLabel": "Incident बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Incident [identifier: {{ param }}] तैयार है",
+            "updated": "एक Incident [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Incident [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Incident [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Incident"
+            },
+            "natureOfIncident": "Nature Of Incident",
+            "firstAidProvided": "First Aid Provided",
+            "firstAidNotes": "First Aid Notes",
+            "date": "Date",
+            "createdOn": "Created On",
+            "isAdminOnly": "Is Admin Only",
+            "notes": "Notes",
+            "studentProfile": "Student Profile",
+            "students": "Students"
+        }
+    }
+}

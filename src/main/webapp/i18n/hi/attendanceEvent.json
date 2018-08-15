@@ -1,0 +1,9 @@
+{
+    "testreactApp": {
+        "AttendanceEvent" : {
+            "null": "",
+            "CHECKIN": "CHECKIN",
+            "CHECKOUT": "CHECKOUT"
+        }
+    }
+}

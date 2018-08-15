@@ -1,0 +1,30 @@
+
+{
+    "testreactApp": {
+        "event" : {
+            "home": {
+                "title": "Events",
+                "createLabel": "नया Event बनाएँ",
+                "createOrEditLabel": "Event बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Event [identifier: {{ param }}] तैयार है",
+            "updated": "एक Event [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Event [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Event [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Event"
+            },
+            "title": "Title",
+            "description": "Description",
+            "eventImageURL": "Event Image URL",
+            "eventDate": "Event Date",
+            "createdOn": "Created On",
+            "lastModifiedOn": "Last Modified On",
+            "schedule": "Schedule",
+            "photos": "Photos",
+            "videos": "Videos"
+        }
+    }
+}

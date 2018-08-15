@@ -1,0 +1,23 @@
+
+{
+    "testreactApp": {
+        "activityType" : {
+            "home": {
+                "title": "ActivityTypes",
+                "createLabel": "नया Activity Type बनाएँ",
+                "createOrEditLabel": "Activity Type बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Activity Type [identifier: {{ param }}] तैयार है",
+            "updated": "एक Activity Type [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Activity Type [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Activity Type [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Activity Type"
+            },
+            "name": "Name",
+            "category": "Category"
+        }
+    }
+}

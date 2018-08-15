@@ -1,0 +1,9 @@
+{
+    "testreactApp": {
+        "FeatureType" : {
+            "null": "",
+            "STANDARD": "STANDARD",
+            "PREMIUM": "PREMIUM"
+        }
+    }
+}

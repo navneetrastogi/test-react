@@ -1,0 +1,25 @@
+
+{
+    "testreactApp": {
+        "attendance" : {
+            "home": {
+                "title": "Attendances",
+                "createLabel": "नया Attendance बनाएँ",
+                "createOrEditLabel": "Attendance बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Attendance [identifier: {{ param }}] तैयार है",
+            "updated": "एक Attendance [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Attendance [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Attendance [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Attendance"
+            },
+            "attendanceEvent": "Attendance Event",
+            "datetime": "Datetime",
+            "createdOn": "Created On",
+            "studentProfile": "Student Profile"
+        }
+    }
+}

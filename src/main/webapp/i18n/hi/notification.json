@@ -1,0 +1,28 @@
+
+{
+    "testreactApp": {
+        "notification" : {
+            "home": {
+                "title": "Notifications",
+                "createLabel": "नया Notification बनाएँ",
+                "createOrEditLabel": "Notification बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Notification [identifier: {{ param }}] तैयार है",
+            "updated": "एक Notification [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Notification [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Notification [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Notification"
+            },
+            "type": "Type",
+            "date": "Date",
+            "createdOn": "Created On",
+            "message": "Message",
+            "icon": "Icon",
+            "status": "Status",
+            "parent": "Parent"
+        }
+    }
+}

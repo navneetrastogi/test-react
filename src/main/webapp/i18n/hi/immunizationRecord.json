@@ -1,0 +1,26 @@
+
+{
+    "testreactApp": {
+        "immunizationRecord" : {
+            "home": {
+                "title": "ImmunizationRecords",
+                "createLabel": "नया Immunization Record बनाएँ",
+                "createOrEditLabel": "Immunization Record बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Immunization Record [identifier: {{ param }}] तैयार है",
+            "updated": "एक Immunization Record [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Immunization Record [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Immunization Record [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Immunization Record"
+            },
+            "createdOn": "Created On",
+            "vaccinationDoneOn": "Vaccination Done On",
+            "vaccinationName": "Vaccination Name",
+            "isOnTime": "Is On Time",
+            "studentProfile": "Student Profile"
+        }
+    }
+}
