@@ -1,0 +1,11 @@
+version: '2'
+services:
+    testreact-postgresql:
+        image: postgres:10.4
+        # volumes:
+        #     - ~/volumes/jhipster/testreact/postgresql/:/var/lib/postgresql/data/
+        environment:
+            - POSTGRES_USER=testreact
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432
